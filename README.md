@@ -1,19 +1,26 @@
-# _WanderList_
+# WanderList
 
-#### _Packing App for Camping trips, April 18, 2019_
+#### Camp Packing List App - 4/19/2019
 
-#### By _**Heather Zurek, Dustin Herboldshimer, Reese Lee**_
+#### Packing App for Camping trips, April 18, 2019
+
+
+#### By **Heather Zurek, Dustin Herboldshimer, Reese Lee**
 
 ## Description
 
-_A web application that allows the user to create pre generated lists and edit them based on their trips needs_
+A web application that allows the user to create pre generated lists and edit them based on their trips needs
+
+## See The WanderList Page
+
+https://duherb/github.io/wanderlist
 
 ## Setup/Installation Requirements
 
-* _URL_
-* _Open Web Application in Browser_
-* _Select drop down for your trip_
-* _Add items to list_
+* URL
+* Open Web Application in Browser
+* Select drop down for your trip
+* Add items to list
 
 
 ## Specs
@@ -28,17 +35,15 @@ _A web application that allows the user to create pre generated lists and edit t
 | User can remove items from their list | Warm socks | |
 | User can check off items that are packed | Coffee | Coffee ✓ Packed |
 
-## Known Bugs
-
-_No known bugs, please contact us via the contact form if you find any issues._
-
 ## Support and contact details
 
-_If you run into any issues or have questions, ideas or concerns please reach out to us via the contact form on the web application._
+If you run into any issues or have questions, ideas or concerns please reach out to us via the contact form on the web application.
 
 ## Technologies Used
 
-_JavaScript_
+JavaScript
+bootstrap
+autoprefixer
 
 ### License
 
